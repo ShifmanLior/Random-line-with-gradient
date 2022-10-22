@@ -9,11 +9,11 @@ function draw() {
 
   background(255);
   strokeWeight(0);
-  translate (200 ,100);
+  translate (200 ,150);
   
   
 
-  let rectalheight = 8
+  let rectalheight = 4
   let random1 = random(20, 300);
   let random2 = random(20, 300);
   let random3 = random(20, 300);
